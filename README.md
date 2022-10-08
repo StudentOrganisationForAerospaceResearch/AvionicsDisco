@@ -1,4 +1,4 @@
-# AvionicsDev / AvionicsDisco
+# AvionicsDev / AvionicsDisco / AvionicsDiscovery
 
 Discovery board support for AvionicsSoftware
 
