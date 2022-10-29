@@ -14,5 +14,5 @@ git submodule update
 2. Change **huart5** to **huart6** in main_avionics.hpp
 
 ## Relevant Pinout
-DEBUG_UART_RX = PC6 </p>
-DEBUG_UART_TX = PC7
+DEBUG_UART_RX = PC6 (White UART)</p>
+DEBUG_UART_TX = PC7 (Green UART)
