@@ -6,9 +6,10 @@
 Discovery board support for [AvionicsSoftware](https://github.com/StudentOrganisationForAerospaceResearch/AvionicsSoftware)
 
 ## Setup
-1. Initialize the AvionicsSoftware submodule by using the command
+1. Initialize the AvionicsSoftware submodule by using the commands
 ```
 git submodule init
+git submodule update
 ```
 2. Change **huart5** to **huart6** in main_avionics.hpp
 
