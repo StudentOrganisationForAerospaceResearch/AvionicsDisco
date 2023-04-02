@@ -3,7 +3,8 @@
 </div>
 
 ## About
-Discovery board support for [AvionicsSoftware](https://github.com/StudentOrganisationForAerospaceResearch/AvionicsSoftware)
+Discovery board support for [AvionicsSoftware](https://github.com/StudentOrganisationForAerospaceResearch/AvionicsSoftware).
+Allows running code meant for the STM32F405 system inside an STM32F411 environment, without having to modify the F405 project.
 
 ## Setup
 1. Initialize the AvionicsSoftware submodule by using the commands
